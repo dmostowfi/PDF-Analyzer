@@ -3,7 +3,7 @@ Event-driven cloud application that analyzes a PDF's text when uploaded and writ
 
 ## Project Details
 - Context: Class project for CS-310: Scalable Software Architectures [(syllabus)](https://www.dropbox.com/s/ltwtt7p91qutv5t/cs310-Syllabus.pdf?dl=0) with Prof. Joe Hummel at Northwestern University's McCormick School of Engineering.
-- Purpose: Design an event-driven, serverless cloud application using AWS Lambda functions.
+- Learning Goal: Design an event-driven, serverless cloud application using AWS Lambda functions.
 
 ## Software Architecture
 - AWS S3 (Simple Storage Service): object storage; uploading files triggers the call to Lambda function
